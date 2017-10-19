@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sub_title_format" formatted="false">%.1f 公里 | %d 千卡</string>
+    <string name="connect">连接</string>
+    <string name="disconnect">已连接</string>
+</resources>
