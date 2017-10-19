@@ -41,7 +41,7 @@ public class MainActivity extends AppCompatActivity {
                     public void run() {
                         connect = !connect;
                         miSportsConnectView.setConnected(connect);
-                        connectButton.setText(connect? getString(R.string.connect) : getString(R.string.disconnect));
+                        connectButton.setText(connect? getString(R.string.disconnect) : getString(R.string.connect));
                     }
                 }, 500);
             }
