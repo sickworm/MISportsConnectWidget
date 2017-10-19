@@ -171,7 +171,7 @@ class FireworksCircleGraphics {
         }
 
         int radius = (int) (canvas.getWidth() * RADIUS_SCALE);
-//        canvas.rotate(rotateDegree, circleX, circleY);
+        canvas.rotate(rotateDegree, circleX, circleY);
         for (LineArgument argument : lineArgumentList) {
 
             float dx = argument.dx;
