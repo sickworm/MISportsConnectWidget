@@ -9,17 +9,17 @@
 # 效果图
 原版效果：
 
-![](http://https://mmbiz.qpic.cn/mmbiz_gif/yj4Eg7LNy0KicNlRuh7HA70cgd59a9EduvZaakXaEialhgLWMFgRaW82Hia7DBaeElItJOPO33qxa1AcYjQC6hQZw/0?wx_fmt=gif&tp=webp&wxfrom=5&wx_lazy=1)
+![正版](./README/origin.gif)
 
 模仿效果：
 
-![]()
+![盗版](./README/old.gif)
 
 对不起放错了：
 
-![]()
+![真·盗版](./README/new.gif)
 
-# 工程文件列表
+# 工程文件清单
 
 ```
 
@@ -30,12 +30,15 @@ misportsconnectview
     MISportsConnectView：小米运动控件
         AnimationState：动画状态机
         AnimationThread：动画控制线程
+
     FireworksCircleGraphics：烟花圆环实现类，代码较多单独独立出来
         StartArgument：烟花圆环上的星星，负责存储当前运动状态及下一帧运动状态
         StartArgument：烟花圆环上的线条，负责存储当前运动状态及下一帧运动状态
+
     SportsData：view 使用到的数据的 bean
     LogUtils：日志工具类
     DensityUtils：dp，px，sp 的转换工具类
+
 ```
 
 # 比较满意的地方
@@ -55,4 +58,6 @@ misportsconnectview
 # 后记
 水平不够，时间来凑
 
-比心
+这三个月学到很多，比心！
+
+![](./README/heart.png)
