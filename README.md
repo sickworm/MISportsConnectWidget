@@ -9,15 +9,15 @@
 # 效果图
 原版效果：
 
-![正版](./README/origin.gif)
+![正版](https://raw.githubusercontent.com/SickWorm/MISportsConnectWidget/master/README/origin.gif)
 
 模仿效果：
 
-![盗版](./README/old.gif)
+![盗版](https://raw.githubusercontent.com/SickWorm/MISportsConnectWidget/master/README/old.gif)
 
 对不起放错了：
 
-![真·盗版](./README/new.gif)
+![真·盗版](https://raw.githubusercontent.com/SickWorm/MISportsConnectWidget/master/README/new.gif)
 
 # 工程文件清单
 
