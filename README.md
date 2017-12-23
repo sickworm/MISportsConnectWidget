@@ -1,6 +1,15 @@
 # MISportsConnectWidget
 【仿写酷界面】【HenCoder】仿小米运动的运动记录界面
 
+# 2017.12.23 更新
+奖品拿到啦~感谢投票的同学
+
+![耳机](https://raw.githubusercontent.com/SickWorm/MISportsConnectWidget/master/README/airpod.jpg)
+
+由于 Google Clips 相机暂时没货，所以换成了 Air pods。
+
+原作者对各个仿写项目的点评：[关注我就能达到大师级水平，这话我终于敢说了](http://hencoder.com/activity-mock-2)
+
 # 介绍
 本项目为 [HenCoder](http://hencoder.com) 的 [仿写酷界面](http://hencoder.com/activity-mock-1/) 投稿，投稿项目为：**3.小米运动首页顶部的运动记录界面**。 HenCoder 有多牛逼呢？就是这个项目仅靠它的 4 篇自定义控件文章就可以完成了。 
 
