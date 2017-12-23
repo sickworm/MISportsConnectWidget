@@ -6,7 +6,7 @@
 
 ![耳机](https://raw.githubusercontent.com/SickWorm/MISportsConnectWidget/master/README/airpod.jpg)
 
-由于 Google Clips 相机暂时没货，所以换成了 Air pods。
+由于 Google Clips 相机暂时没货，所以换成了 AirPods。
 
 原作者对各个仿写项目的点评：[关注我就能达到大师级水平，这话我终于敢说了](http://hencoder.com/activity-mock-2)
 
